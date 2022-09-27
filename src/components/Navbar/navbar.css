@@ -1,0 +1,22 @@
+.background-black {
+    color: white;
+    background-color: rgba(0, 0, 0, 0.886);
+    padding: 1.5%;
+
+}
+
+.svg-icon {
+    width: 2em;
+    height: 2em;
+}
+
+.svg-icon path,
+.svg-icon polygon,
+.svg-icon rect {
+    fill: #4691f6;
+}
+
+.svg-icon circle {
+    stroke: #4691f6;
+    stroke-width: 1;
+}

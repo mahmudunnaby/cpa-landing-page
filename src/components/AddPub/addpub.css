@@ -1,0 +1,17 @@
+.add-box {
+    background-color: rgba(0, 0, 0, 0.8);
+
+
+}
+
+.pub-box {
+    background-color: rgba(215, 179, 59, 0.8);
+
+}
+
+.bg-img {
+    background-image: url(/public/1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    backdrop-filter: blur(50px) opacity(90%) invert(70%);
+}

@@ -1,0 +1,347 @@
+.newsletter-container {
+
+    height: 146.9px;
+    width: 100%;
+
+
+}
+
+.newsletter-bg {
+    width: 70vw;
+    height: 146.9px;
+}
+
+.newsletter-text-container {
+    width: 509px;
+    height: 146.9px;
+}
+
+.newsletter-position {
+    position: absolute;
+    top: 2000px;
+    z-index: 1;
+}
+
+.footer-container {
+    height: 353.8px;
+    width: 100%;
+}
+
+.footer-text-container {
+    height: 352.8px;
+    width: 20vw;
+}
+
+.footer-about-container {
+    height: 352.8px;
+    width: 20vw;
+}
+
+.footer-support-container {
+    height: 352.8px;
+    width: 305.5px;
+}
+
+.footer-getintouch-container {
+    width: 561px;
+    height: 352.8px;
+}
+
+.footer-bottom-container {
+    height: 64px;
+    width: 100%;
+}
+
+.footer-position {
+    position: absolute;
+    top: 2100px;
+    z-index: 0;
+}
+
+@media screen and (max-width: 600px) {
+    .newsletter-position {
+        position: absolute;
+        top: 4900px;
+        z-index: 1;
+    }
+
+    .newsletter-bg {
+        width: 90%;
+        height: 252px;
+    }
+
+    .newsletter-container {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        height: 252px;
+        width: 100%;
+
+
+    }
+
+    .newsletter-text-container {
+        width: 85%;
+        height: auto;
+        /* height: 146.9px; */
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+
+    }
+
+    .newsletter-sm-layout {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .newsletter-input-sm-layout {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin-top: 10px;
+    }
+
+    .footer-text-container {
+        height: 286.2px;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: start;
+        justify-content: center;
+        padding: 10px;
+    }
+
+    .footer-position {
+        position: absolute;
+        top: 6090px;
+        z-index: 0;
+    }
+
+    .footer-container {
+        height: auto;
+        /* height: 700px; */
+        width: 100%;
+
+    }
+
+    .footer-about-container {
+        height: 200px;
+        width: 50%;
+        padding: 10px;
+    }
+
+    .footer-support-container {
+        height: 200px;
+        width: 50%;
+        padding: 10px;
+
+    }
+
+    .footer-layout-sm {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: start;
+    }
+
+    .footer-getintouch-container {
+        width: 100%;
+        height: 250px;
+    }
+
+    .footer-bottom-container {
+        height: 200px;
+        width: 100%;
+        text-align: center;
+        position: absolute;
+        top: 700px;
+
+    }
+
+
+
+}
+
+
+@media screen and (max-width: 900px) {
+    .newsletter-position {
+        position: absolute;
+        top: 3900px;
+        z-index: 1;
+    }
+
+    .newsletter-bg {
+        width: 90%;
+        height: 252px;
+    }
+
+    .newsletter-container {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        height: 252px;
+        width: 100%;
+
+
+    }
+
+    .newsletter-text-container {
+        width: 85%;
+        height: auto;
+        /* height: 146.9px; */
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+
+    }
+
+    .newsletter-sm-layout {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .newsletter-input-sm-layout {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin-top: 10px;
+    }
+
+    .footer-text-container {
+        height: 286.2px;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: start;
+        justify-content: center;
+        padding: 10px;
+    }
+
+    .footer-position {
+        position: absolute;
+        top: 4100px;
+        z-index: 0;
+    }
+
+    .footer-container {
+        height: auto;
+        /* height: 700px; */
+        width: 100%;
+
+    }
+
+    .footer-about-container {
+        height: 200px;
+        width: 50%;
+        padding: 10px;
+    }
+
+    .footer-support-container {
+        height: 200px;
+        width: 50%;
+        padding: 10px;
+
+    }
+
+    .footer-layout-sm {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: start;
+    }
+
+    .footer-getintouch-container {
+        width: 100%;
+        height: 250px;
+    }
+
+    .footer-bottom-container {
+        height: 100px;
+        width: 100%;
+        text-align: center;
+        position: absolute;
+        top: 700px;
+        font-size: small;
+
+    }
+
+}
+
+@media screen and (min-width: 1024px) {
+    .newsletter-container {
+
+        height: 146.9px;
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+
+    }
+
+    .newsletter-bg {
+        width: 70vw;
+        height: 146.9px;
+    }
+
+    .newsletter-text-container {
+        width: 100%;
+        height: 146.9px;
+    }
+
+    .newsletter-position {
+        position: absolute;
+        top: 2700px;
+        z-index: 1;
+    }
+
+    .footer-container {
+        height: 353.8px;
+        width: 100%;
+    }
+
+    .footer-text-container {
+        height: 352.8px;
+        width: 20vw;
+    }
+
+    .footer-about-container {
+        height: 352.8px;
+        width: 20vw;
+    }
+
+    .footer-support-container {
+        height: 352.8px;
+        width: 305.5px;
+    }
+
+    .footer-getintouch-container {
+        width: 561px;
+        height: 352.8px;
+    }
+
+    .footer-bottom-container {
+        height: 64px;
+        width: 100%;
+    }
+
+    .footer-position {
+        position: absolute;
+        top: 2800px;
+        z-index: 0;
+    }
+
+}
