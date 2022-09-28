@@ -17,7 +17,7 @@ const Feedback = () => {
     return (
         <div className='flex justify-center items-center'>
 
-            <div className=' bg-white flex justify-center items-center flex-col mt-20 lg:mt-5 h-96 md:w-[80%] w-full'>
+            <div className=' bg-white flex justify-center items-center flex-col mt-40 lg:mt-5 h-96 md:w-[80%] w-full'>
                 <h1 className='mb-5 md:mt-5  text-3xl text-center'>What People Say about Panthera?</h1>
                 <div className=' w-full '>
 

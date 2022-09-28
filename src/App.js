@@ -6,6 +6,8 @@ import Footer from './components/Footer/Footer';
 import About from './components/About/About';
 import Addpub from './components/AddPub/Addpub';
 import Feedback from './components/Feedback/Feedback';
+import Profile from './components/Profile/Profile';
+import Members from './components/Members/Members';
 
 function App() {
   return (
@@ -16,6 +18,8 @@ function App() {
       <About />
       <Addpub />
       <Feedback />
+      <Profile />
+      <Members />
     </div>
   );
 }

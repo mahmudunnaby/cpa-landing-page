@@ -173,7 +173,7 @@
 @media screen and (max-width: 900px) {
     .newsletter-position {
         position: absolute;
-        top: 3900px;
+        top: 4300px;
         z-index: 1;
     }
 
@@ -232,7 +232,7 @@
 
     .footer-position {
         position: absolute;
-        top: 4100px;
+        top: 4500px;
         z-index: 0;
     }
 
@@ -304,7 +304,7 @@
 
     .newsletter-position {
         position: absolute;
-        top: 2700px;
+        top: 2850px;
         z-index: 1;
     }
 
@@ -340,7 +340,7 @@
 
     .footer-position {
         position: absolute;
-        top: 2800px;
+        top: 2950px;
         z-index: 0;
     }
 
