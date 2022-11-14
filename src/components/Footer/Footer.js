@@ -10,7 +10,7 @@ import { AiFillTwitterCircle, AiFillYoutube, AiFillInstagram } from 'react-icons
 const Footer = () => {
     return (
         <div>
-            <div className=' relative '>
+            <div className=' relative'>
                 <div className=' absolute newsletter-position newsletter-container  md:flex md:justify-center md:items-center'>
                     <div className=' newsletter-bg rounded-3xl newsletter-sm-layout bg-yellow-400 md:flex md:justify-start md:items-center'>
                         <div className='newsletter-text-container md:flex md:flex-col md:items-start md:justify-center md:p-7'>
@@ -118,7 +118,7 @@ const Footer = () => {
                                     </div>
                                 </div>
                                 <div className=' text-white'>
-                                    <p>Copyright 2022 © Hypebeat | Powered By Rometheme Studio.</p>
+                                    <p>Copyright 2022 © SAVESPOINT </p>
                                 </div>
                             </div>
 

@@ -12,7 +12,7 @@ const Profile = () => {
             <div className=' flex justify-evenly h-full p-5 lg:items-center items-start  flex-col  lg:flex-row'>
                 <div className='flex justify-center items-center'>
                     <div className='px-5'>
-                        <p className='text-white border-b-2 text-3xl' >200+</p>
+                        <p className='text-white border-b-2 text-3xl' >500+</p>
                         <h3 className=' text-2xl text-white'>Advertisers</h3>
                     </div>
 
@@ -20,7 +20,7 @@ const Profile = () => {
                 </div>
                 <div className='flex justify-center items-center'>
                     <div className='px-5'>
-                        <p className='text-white border-b-2 text-3xl' >15</p>
+                        <p className='text-white border-b-2 text-3xl' >10</p>
                         <h3 className=' text-2xl text-white'>Years Running</h3>
                     </div>
 
@@ -28,7 +28,7 @@ const Profile = () => {
                 </div>
                 <div className='flex justify-center items-center'>
                     <div className='px-5'>
-                        <p className='text-white border-b-2 text-3xl' >350+</p>
+                        <p className='text-white border-b-2 text-3xl' >370+</p>
                         <h3 className=' text-2xl text-white'>Live Campaigns</h3>
                     </div>
 
@@ -36,7 +36,7 @@ const Profile = () => {
                 </div>
                 <div className='flex justify-center items-center'>
                     <div className='px-5'>
-                        <p className='text-white border-b-2 text-3xl' >3000+</p>
+                        <p className='text-white border-b-2 text-3xl' >3500+</p>
                         <h3 className=' text-2xl text-white'>Publishers</h3>
                     </div>
 

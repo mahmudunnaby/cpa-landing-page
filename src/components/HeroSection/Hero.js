@@ -11,25 +11,30 @@ import styles from './hero.css'
 import image1 from '../../assets/1.jpg'
 import image2 from '../../assets/2.jpg'
 import image3 from '../../assets/4.jpg'
+import image4 from '../../assets/img5.jpg'
+import image5 from '../../assets/image5.jpg'
+import image6 from '../../assets/image6.jpg'
+
+
 import Slideimage from './Slideimage';
 
 const images = [
     {
         "ID": 0,
-        "img": image1,
+        "img": image4,
         "title": "Publisher Network",
         "discription": "A Leading Global Performance Based",
 
     },
     {
         "ID": 1,
-        "img": image2,
+        "img": image5,
         "title": "Panthera Network",
         "discription": "Advertisers & Publishers For 15+ Years",
     },
     {
         "ID": 2,
-        "img": image3,
+        "img": image6,
         "title": "Experts In Both Web And Mobile",
         "discription": "Customer And User Acquisitions",
     }]
@@ -40,7 +45,7 @@ const Hero = () => {
 
             <Swiper
                 spaceBetween={0}
-                slidesPerView={3}
+                slidesPerView={1}
                 centeredSlides={true}
                 autoplay={{
                     delay: 2500,
