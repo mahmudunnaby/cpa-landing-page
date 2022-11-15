@@ -29,7 +29,7 @@ const images = [
     {
         "ID": 1,
         "img": image5,
-        "title": "Panthera Network",
+        "title": "Savespoints Network",
         "discription": "Advertisers & Publishers For 15+ Years",
     },
     {

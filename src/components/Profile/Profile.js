@@ -20,7 +20,7 @@ const Profile = () => {
                 </div>
                 <div className='flex justify-center items-center'>
                     <div className='px-5'>
-                        <p className='text-white border-b-2 text-3xl' >10</p>
+                        <p className='text-white border-b-2 text-3xl' >15+</p>
                         <h3 className=' text-2xl text-white'>Years Running</h3>
                     </div>
 
