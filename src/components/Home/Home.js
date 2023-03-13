@@ -7,6 +7,7 @@ import Addpub from '../AddPub/Addpub';
 import Feedback from '../Feedback/Feedback';
 import Profile from '../Profile/Profile';
 import Members from '../Members/Members';
+import Ourfeature from '../OurFeature/Ourfeature';
 
 const Home = () => {
     return (
@@ -19,6 +20,7 @@ const Home = () => {
             <Feedback />
             <Profile />
             <Members />
+            <Ourfeature/>
         </div>
     );
 };
